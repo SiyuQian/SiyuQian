@@ -32,20 +32,6 @@ var siyu = Engineer{
 }
 ```
 
-## 🚀 Featured projects
-
-<div align="center">
-
-| | Project | What it does |
-|:--:|---|---|
-| 🧭 | [**keel**](https://github.com/SiyuQian/keel) | Agentic development environment built on Orca: agents, terminals and code review in one desktop app |
-| 🎙️ | [**yanyu · 言语**](https://github.com/SiyuQian/yanyu) | Personal desktop speech input with local recognition and on-device polishing (Qwen3 on Apple Silicon) |
-| 🤖 | [**devpilot**](https://github.com/SiyuQian/devpilot) | Go CLI: write a plan, push it to Trello, and let an autonomous Claude Code runner execute it |
-| 📈 | [**dev-pulse**](https://dev-pulse.siyu.co.nz) | A daily pulse of developer activity — [live site](https://dev-pulse.siyu.co.nz) |
-| 📚 | [**quant-learning**](https://github.com/SiyuQian/quant-learning) | 从零开始的金融基础与量化研究学习记录：交互手册、笔记与实验 |
-
-</div>
-
 ## 🛠️ Tech stack
 
 <div align="center">
