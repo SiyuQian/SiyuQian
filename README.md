@@ -10,7 +10,7 @@
 
 <a href="https://siyu.co.nz"><img src="https://img.shields.io/badge/siyu.co.nz-0f2027?style=for-the-badge&logo=googlechrome&logoColor=4FD1C5" alt="Website" /></a>
 <a href="https://github.com/SiyuQian?tab=followers"><img src="https://img.shields.io/github/followers/SiyuQian?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027&color=2c5364" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=SiyuQian&style=for-the-badge&color=2c5364&labelColor=0f2027&label=Profile+views" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SiyuQian.SiyuQian&left_text=PROFILE%20VIEWS&left_color=%230f2027&right_color=%232c5364" alt="Profile views" />
 
 </div>
 
