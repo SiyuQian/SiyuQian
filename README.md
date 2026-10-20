@@ -19,23 +19,16 @@
 ```go
 type Engineer struct {
 	Name     string
+	Role     string
 	Location string
-	Company  string
-	Focus    []string
-	Stack    map[string][]string
+	Into     []string
 }
 
 var siyu = Engineer{
 	Name:     "Siyu Qian",
+	Role:     "Senior Software Engineer",
 	Location: "New Zealand 🇳🇿",
-	Company:  "Forsyth Barr",
-	Focus:    []string{"AI coding agents", "developer workflow automation", "self-hosted CI"},
-	Stack: map[string][]string{
-		"languages": {"Go", "TypeScript", "Rust", "Python"},
-		"backend":   {"NestJS", "Node.js", "PostgreSQL"},
-		"desktop":   {"Tauri", "Electron"},
-		"infra":     {"Docker", "GitHub Actions", "Tailscale"},
-	},
+	Into:     []string{"AI agents", "developer tools"},
 }
 ```
 
